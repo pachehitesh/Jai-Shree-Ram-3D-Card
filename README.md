@@ -1,4 +1,4 @@
-# Shree-Ram-3D-Animated-
+# Jai-Shree-Ram-3D-Animated-
 This project is a visually captivating Jai Shree Ram 3D card crafted using HTML and CSS by Hitesh Pache. It showcases an intricately designed image of Lord Rama with an impressive 3D effect. The cover image exudes a divine aura sourced from peakpx.com, while the title and character images, sourced from freecodez.com and godpng.com respectively, add depth and richness to the overall presentation.
 
 Through a combination of HTML for structure, CSS for styling, and JavaScript for interactivity (as indicated by the inclusion of script.js), this project offers not just a static image but a dynamic and immersive experience for viewers. The thoughtful design and meticulous implementation make it a standout piece, ideal for those seeking to infuse their digital creations with elements of spirituality and artistry.
